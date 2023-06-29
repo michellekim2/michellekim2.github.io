@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>based in the bay area and atlanta, GAr</p>
+    <p>based in the Bay Area and Atlanta, GA </p>
     <p>t</p>
     <p>Y</p>
 
