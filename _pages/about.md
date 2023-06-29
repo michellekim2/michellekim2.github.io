@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a> 'CS @ Emory University' 
+subtitle: <a href='#'></a> CS @ Emory University 
 
 profile:
   align: right
