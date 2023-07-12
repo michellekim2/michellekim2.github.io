@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: HTML Article Webscraper for unique text
+description: python, beautifulsoup library, 
 img: assets/img/12.jpg
 importance: 1
 category: work
@@ -15,8 +15,8 @@ To give your project a background in the portfolio page, just add the img tag to
 
     ---
     layout: page
-    title: project
-    description: a project with a background image
+    title: HTML Article Webscraper for unique text
+    description: reads text from html articles and counts each instance of a unique word
     img: /assets/img/12.jpg
     ---
 
