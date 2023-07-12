@@ -22,4 +22,4 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a Computer Science (B.S.) Student at Emory University with a passion for creating human good through technology. 
 
-My interests are iOS mobile full stack development and NLP, I love being able to bring a project to an audience. On the side, I empower women in tech through Emory ProgramHERS and Girls Who Code. 
+My interests are Machine Learning, Artificial Intelligence, NLP, and iOS Development. I love being able to bring a project to an audience. On the side, I empower women in tech through Emory ProgramHERS and Girls Who Code. 
