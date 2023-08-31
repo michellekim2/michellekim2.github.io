@@ -1,24 +1,17 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: CIS 053 Intro to Machine Learning Final Project
+description: Use Python, Scikit to perform feature selection, lasso and ridge regression, cross validation on housing price data
 img: assets/img/3.jpg
-importance: 2
+importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Final project to culminate all content mastered over the summer term. 
+Programming Tasks: descriptive statistic and generate plots including correlation heatmap, perform manual analysis of plots for potential relevant features, perform feature selection with Recursive Feature Elimination, build regularized regression model (Lasso and Ridge methods), use K-fold method for cross validation
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Produced Final Report concisely presenting data and process.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
