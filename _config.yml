@@ -127,8 +127,8 @@ blog_nav_title: blog # your blog must have a title for it to be displayed in the
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
-projects_name : projects
-projects_nav_title : projects
+_projects_name : projects
+_projects_nav_title : projects
 
 
 # Pagination
