@@ -123,9 +123,13 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: blog # blog_name will be displayed in your blog page
-blog_nav_title: blog! # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
+
+projects_name : projects
+projects_nav_title : projects
+
 
 # Pagination
 pagination:
@@ -135,8 +139,7 @@ related_blog_posts:
   enabled: true
   max_related: 5
 
-  projects_name : projects
-  projects_nav_title : projects
+  
   
 
 # Giscus comments (RECOMMENDED)
