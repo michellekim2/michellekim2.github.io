@@ -1,24 +1,21 @@
 ---
 layout: page
 title: HTML Article Webscraper for unique text
-description: python, beautifulsoup library, 
+description: python, beautifulsoup library, June 2023
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Webscraper using beautifulsoup library to input text from html articles. Splits into words and counts each instance of a unique word.
+
+Purpose: create a 2 hour deliverable of beautifulsoup
+
+Suggested future improvements : use tokenizer, use NLP libraries to perform tasks on inputted texts, update to be able to read non-HTML articles to be read
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: HTML Article Webscraper for unique text
-    description: reads text from html articles and counts each instance of a unique word
-    img: /assets/img/12.jpg
-    ---
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
