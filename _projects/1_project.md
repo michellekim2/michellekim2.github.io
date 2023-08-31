@@ -1,12 +1,12 @@
 ---
 layout: page
-title: HTML Article Webscraper for unique text
+
 description: python, beautifulsoup library, June 2023
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
-
+NOTE: I deleted the title
 Webscraper using beautifulsoup library to input text from html articles. Splits into words and counts each instance of a unique word.
 
 Purpose: create a 2 hour deliverable of beautifulsoup
