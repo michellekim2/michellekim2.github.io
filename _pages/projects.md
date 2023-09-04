@@ -10,6 +10,9 @@ horizontal: false
 ---
 <a href="https://michellekim2.github.io/projects/2_project" class="button">CIS 053 Intro to Machine Learning Final Project</a>
 
+<a href="https://michellekim2.github.io/projects/1_project" class="button">HTML Website Webscraper Project</a>
+
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
