@@ -1,4 +1,4 @@
-
+---
 layout: page
 title: CIS 053 Intro to Machine Learning Final Project
 description: Use Python, Scikit to perform feature selection, lasso and ridge regression, cross validation on housing price data
