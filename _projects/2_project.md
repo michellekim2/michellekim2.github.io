@@ -7,15 +7,13 @@ importance: 1
 category: work
 ---
 
-Final project to culminate all content mastered over the summer term. 
+20+ hour Final project to culminate all content mastered over the summer term. 
 
 Programming Tasks: descriptive statistic and generate plots including correlation heatmap, perform manual analysis of plots for potential relevant features, perform feature selection with Recursive Feature Elimination, build regularized regression model (Lasso and Ridge methods), use K-fold method for cross validation
 
-Produced Final Report concisely presenting data and process.
+Produced Final Report concisely presenting data and findings.
 
 <iframe src="/assets/pdf/CIS053-Written-Final.pdf" width="100%" height="500px"></iframe>
-
-<iframe src="/assets/pdf/example_pdf.pdf" width="100%" height="500px"></iframe>
 
 Here is a link to the full code (Juypter Notebook):
 <a href="https://github.com/michellekim2/portfolio/blob/main/CIS053-Final-Code.ipynb">Link to full code</a>
