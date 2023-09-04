@@ -13,9 +13,12 @@ Programming Tasks: descriptive statistic and generate plots including correlatio
 
 Produced Final Report concisely presenting data and process.
 
-<iframe src="assets/pdf/CIS053-Written-Final.pdf" width="100%" height="500px"></iframe>
+<iframe src="CIS053-Written-Final.pdf" width="100%" height="500px"></iframe>
 
 <iframe src="assets/pdf/example_pdf.pdf" width="100%" height="500px"></iframe>
+
+
+
 
 <script>
   // Initialize PDF.js
