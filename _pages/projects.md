@@ -8,6 +8,7 @@ nav_order: 2
 display_categories: [all]
 horizontal: false
 ---
+<a href="https://michellekim2.github.io/projects/2_project" class="button">CIS 053 Intro to Machine Learning Final Project</a>
 
 <!-- pages/projects.md -->
 <div class="projects">
