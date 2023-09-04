@@ -1,4 +1,4 @@
-[Untitled1.md](https://github.com/michellekim2/michellekim2.github.io/files/12516595/Untitled1.md)---
+
 layout: page
 title: CIS 053 Intro to Machine Learning Final Project
 description: Use Python, Scikit to perform feature selection, lasso and ridge regression, cross validation on housing price data
