@@ -15,6 +15,8 @@ Produced Final Report concisely presenting data and process.
 
 <iframe src="assets/pdf/CIS053-Written-Final.pdf" width="100%" height="500px"></iframe>
 
+<iframe src="assets/pdf/example_pdf.pdf" width="100%" height="500px"></iframe>
+
 <script>
   // Initialize PDF.js
   pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.11.582/pdf.worker.min.js';
