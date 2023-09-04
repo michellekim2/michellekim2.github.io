@@ -14,14 +14,16 @@ Programming Tasks: descriptive statistic and generate plots including correlatio
 Produced Final Report concisely presenting data and process.
 
 
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Final Project CIS 053 (Michelle Kim)".jpg
+        {% include figure.html path="assets/img/Final Project CIS 053 (Michelle Kim).jpg"
 " title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+    
 </div>
 <div class="caption">
-    Here is my written report showing each step of the final project
+    Above is my written report showing each step of the final project
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
