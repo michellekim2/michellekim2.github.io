@@ -2,12 +2,13 @@
 layout: page
 title: CIS 053 Intro to Machine Learning Final Project
 description: Use Python, Scikit to perform feature selection, lasso and ridge regression, cross validation on housing price data
-img: assets/img/3.jpg
+img: assets/img/Final Project CIS 053 (Michelle Kim).jpg
 importance: 1
 category: work
 ---
 
 Final project to culminate all content mastered over the summer term. 
+
 Programming Tasks: descriptive statistic and generate plots including correlation heatmap, perform manual analysis of plots for potential relevant features, perform feature selection with Recursive Feature Elimination, build regularized regression model (Lasso and Ridge methods), use K-fold method for cross validation
 
 Produced Final Report concisely presenting data and process.
@@ -15,7 +16,8 @@ Produced Final Report concisely presenting data and process.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/Final Project CIS 053 (Michelle Kim)".jpg
+" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
