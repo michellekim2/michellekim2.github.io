@@ -17,30 +17,6 @@ Produced Final Report concisely presenting data and process.
 
 <iframe src="/assets/pdf/example_pdf.pdf" width="100%" height="500px"></iframe>
 
-
-
-
-
-<script>
-  // Initialize PDF.js
-  pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.11.582/pdf.worker.min.js';
-
-  // Load and render the PDF
-  var pdfViewer = document.getElementById('pdfViewer');
-  var pdfFile = 'assets/pdf/CIS053-Written-Final.pdf'; // Replace with the actual path to your PDF file
-
-  var loadingTask = pdfjsLib.getDocument(pdfFile);
-  loadingTask.promise.then(function (pdfDocument) {
-    // Initialize the PDF viewer
-    var pdfViewer = new pdfjsViewer.PDFViewer({
-      container: pdfViewer,
-    });
-    pdfViewer.setDocument(pdfDocument);
-  });
-</script>
-
-
-
 Here is a link to the full code (Juypter Notebook):
 <a href="https://github.com/michellekim2/portfolio/blob/main/CIS053-Final-Code.ipynb">Link to full code</a>
 
