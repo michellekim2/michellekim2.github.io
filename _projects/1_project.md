@@ -7,10 +7,9 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 ---
-NOTE: I deleted the title
-Webscraper using beautifulsoup library to input text from html articles. Splits into words and counts each instance of a unique word.
+Webscraper using beautifulsoup library to input text from html articles. Splits text read into words and counts each instance of a unique word.
 
-Purpose: create a 2 hour deliverable using the beautifulsoup library
+Purpose: create a 2 hour deliverable using the beautifulsoup library. Get familiar with beautifulsoup.
 
 Suggested future improvements : use tokenizer, use NLP libraries to perform tasks on inputted texts, update to be able to read non-HTML articles to be read
 
