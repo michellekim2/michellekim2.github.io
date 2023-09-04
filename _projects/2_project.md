@@ -16,7 +16,7 @@ Produced Final Report concisely presenting data and process.
 <iframe src="/assets/pdf/example_pdf.pdf" width="100%" height="500px"></iframe>
 
 Here is a link to the full code (Juypter Notebook):
-<a href="/path/to/your/link">Link Text</a>
+<a href="CIS053-Final-Code.ipynb">Link to full code</a>
 
 <div class="caption">
     Above is my written report showing each step of the final project
