@@ -18,5 +18,4 @@ Produced Final Report concisely presenting data and process.
 Here is a link to the full code (Juypter Notebook):
 <a href="https://github.com/michellekim2/portfolio/blob/main/CIS053-Final-Code.ipynb">Link to full code</a>
 
-</div>
 
