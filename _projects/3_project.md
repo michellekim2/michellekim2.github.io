@@ -1,7 +1,7 @@
 ---
 layout: page
 title: White Blood Cell Patient Data Analysis with Numpy Library
-description: Uses numpy to perform Gaussian Elimination to create polynomial equation for individual patient's White Blood Cell count data
+description: Uses numpy to perform Gaussian Elimination to create polynomial equation to represent and predict individual patient's White Blood Cell count data
 img: assets/img/7.jpg
 importance: 3
 category: work
