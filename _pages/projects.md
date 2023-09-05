@@ -13,6 +13,8 @@ horizontal: false
 <a href="https://michellekim2.github.io/projects/1_project" class="button">HTML Website Webscraper Project</a>
 
 
+<a href="https://michellekim2.github.io/projects/3_project" class="button">White Blood Cell Patient Data Analysis Project</a>
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
