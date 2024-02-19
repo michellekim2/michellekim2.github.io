@@ -1,10 +1,10 @@
 ---
 layout: page
-title: White Blood Cell Patient Data Analysis with Numpy Library
-description: Uses numpy to perform Gaussian Elimination to create polynomial equation for individual patient's White Blood Cell count data
+title: LabLink Full Stack Web Dev Project
+description: Leverage HTML, CSS,Javascript, React, MongoDB, Vercel to build reserach assistant recruitment platform
 img: assets/img/7.jpg
 importance: 3
 category: work
 ---
 
-<iframe src="/assets/pdf/White-Blood-Cell-Data-analysis.pdf" width="100%" height="500px"></iframe>
+<a href="https://lab-link.vercel.app/">Visit Lab-Link</a>
